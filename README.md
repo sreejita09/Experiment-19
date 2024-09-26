@@ -6,7 +6,8 @@ To study and implement queue in c++
 Vs code 
 
 # Theory 
-
+* Queues are a type of container adaptors that operate in a first in first out (FIFO) type of arrangement. Elements are inserted at the back (end) and are deleted from the front. Queues use an encapsulated object of deque or list (sequential container class) as its underlying container, providing a specific set of member functions to access its elements.
+* The queue data structure follows the FIFO (First In First Out) principle where elements that are added first will be removed first.
 # Code 
 code 1
 ~~~
